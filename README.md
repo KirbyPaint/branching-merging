@@ -14,7 +14,7 @@ _The purpose of this website is to demonstrate an understanding of basic HTML an
 
 ## Known Bugs
 
-_[ENTER BUGS IF KNOWN]_
+_CSS not loading_
 
 ## Support and contact details
 
