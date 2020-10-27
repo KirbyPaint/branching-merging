@@ -1,6 +1,7 @@
 h1 
 {
   color: blue;
+<<<<<<< HEAD
   text-align: center;
 }
 
@@ -19,4 +20,6 @@ ul
 {
   font-size: 20px;
   line-height: 30px;
+=======
+>>>>>>> 3abd34a3bfa56c810e60c9c5cb1baef48be52ad9
 }
